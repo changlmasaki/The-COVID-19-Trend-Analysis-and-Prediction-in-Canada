@@ -1,0 +1,4 @@
+cases_timeseries_canada_csv = wget.download('https://raw.githubusercontent.com/ishaberry/Covid19Canada/master/timeseries_canada/cases_timeseries_canada.csv')
+mortality_timeseries_canada_csv = wget.download('https://raw.githubusercontent.com/ishaberry/Covid19Canada/master/timeseries_canada/mortality_timeseries_canada.csv')
+recovered_timeseries_canada_csv = wget.download('https://raw.githubusercontent.com/ishaberry/Covid19Canada/master/timeseries_canada/recovered_timeseries_canada.csv')
+TemperatureOct2020_csv= wget.download('https://raw.githubusercontent.com/changlmasaki/temp_wind_oct_2020/main/TemperatureOct2020.csv')
